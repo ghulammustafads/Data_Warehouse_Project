@@ -53,7 +53,7 @@ The Silver layer refines the raw data by applying:
 
 This layer produces **structured and reliable datasets** ready for analytical modeling.
 
-*(Implementation planned in the next phase of the project.)*
+
 
 ---
 
@@ -70,7 +70,7 @@ Typical outputs include:
 
 These datasets will be consumed by **BI tools and analysts**.
 
-*(Implementation planned in later phases.)*
+
 
 ---
 
